@@ -15,7 +15,7 @@ In principle, one can envision a series of RPI stations connected to multiple de
 
 This is work in progress - I hope that making these codes available as open-source will help development of this tool. Do let us know if you found the tool useful, or if you think we can make some changes. 
 
-This tool was developed as part of the IIT Mandi EE535P course (2023 Spring Summer semester) by MTech Computer Science Students Mahima Gupta and Sandeep Nathuram Kundalwal, both of whom contributed to the work equally. 
+This tool was developed as part of the IIT Mandi EE535P Internet of Things course (2023 Spring Summer semester) by MTech Computer Science Students ***Mahima Gupta*** and ***Sandeep Nathuram Kundalwal***, both of whom contributed to the work equally. We also thank the course instructor ***Dr. Siddhartha Sarma*** of the School of Computing and Electrical Engineering, IIT Mandi for his insightful comments. 
 
 ## Package dependencies
 The following Python modules are required:
