@@ -1,4 +1,4 @@
-# BlueControl (still under work...)
+# BlueControl v1.0
 [EE536: Internet of Things] BlueControl : Instrument Automation with SCPI over Bluetooth
 
 For now I have worked with two Instruments:
